@@ -1,0 +1,7 @@
+  1000 configurations extracted from the dynamical trajectories
+  Each folder contains:
+  nine pigments structure files (.pdb)
+  Gaussian16 input files (.com)
+  Gaussian16 output files (.log) which contains the excited states and coupling values 
+  for building effective Hamiltonian
+ 
